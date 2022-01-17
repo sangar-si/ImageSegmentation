@@ -1,2 +1,2 @@
 # ImageSegmentation
-Image Segmentation project on Caravane dataset using UNet architecture from scratch using PyTorch
+Image Segmentation project on Carvana dataset using UNet architecture from scratch using PyTorch
